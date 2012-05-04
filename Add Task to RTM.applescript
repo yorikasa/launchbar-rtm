@@ -1,1 +1,0 @@
-/Users/yuki/Library/Application Support/LaunchBar/Actions/Add Task to RTM.applescript
