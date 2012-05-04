@@ -3,11 +3,11 @@
 ## Usage
 
 + Get an API key from the [Remember the milk webpage](http://www.rememberthemilk.com/services/api/keys.rtm).
-+ Create a file named 'key' like:
++ Create a file named `key` like:
 
 ```
-*YOUR API KEY*
-*YOUR SHARED SECRET*
+YOUR API KEY
+YOUR SHARED SECRET
 ```
 
 + Place the file to where you think you should.
